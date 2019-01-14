@@ -1,5 +1,5 @@
 # simpliest-glow-csgo
-The simpliest glow cheat (internal) for CS:GO
+The simpliest glow cheat (external) for CS:GO
 
 Что-то написал и оно заработало
 
